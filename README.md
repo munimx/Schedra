@@ -43,15 +43,14 @@ Schedra/
 │── README.md
 │── schedra.sln
 
-````
+```
 
 ---
 
 ## 📦 Tech Stack
 
-* **Backend**: .NET 8, C#, Entity Framework Core
-* **Frontend**: React Native, TypeScript, AsyncStorage, Keychain
-* **Database**: SQL Server / PostgreSQL (configurable)
-* **Dev Tools**: VS Code, Xcode, Android Studio
+* **Backend**: .NET 8, C#, Entity Framework Core  
+* **Frontend**: React Native, TypeScript, AsyncStorage, Keychain  
+* **Database**: SQL Server / PostgreSQL (configurable)  
+* **Dev Tools**: VS Code, Xcode, Android Studio  
 ```
-````
