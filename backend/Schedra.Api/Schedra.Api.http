@@ -1,0 +1,6 @@
+@Schedra.Api_HostAddress = http://localhost:5042
+
+GET {{Schedra.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,113 @@
+```
+### .NET / C# ###
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+
+# Visual Studio Code settings (optional)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+*.tlog
+
+# Build results
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Mm]ips/
+[Mm]ips64/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# DotCover
+.idea/
+
+### React Native / Node.js ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+.expo/
+
+# Metro bundler cache
+.expo-shared/
+metro-cache/
+*.packager
+
+# React Native build
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# Fastlane (iOS/Android build automation)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# React Native cache
+.watchmanconfig
+.watchman/
+babel.config.js
+jest.config.js
+tsconfig.tsbuildinfo
+
+# Expo / React Native CLI
+.expo/
+dist/
+web-build/
+
+# Misc
+.env
+*.keystore
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+__MACOSX
+
+### IDE / Editor ###
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.history/
+```
